@@ -1,0 +1,8 @@
+countdown = input("Specify launch time\n>")
+print("Countdown verified, Countdown in session")
+oxygen_tanks = input("Check both oxygen tank capacity\n>")
+print("Oxygen capacities verified, proceed.")
+food_packs = input("Specify food packs on board\n>")
+print("Food pack quantity: 30. verified, please proced")
+water_packs = input("Specify ammount of water packs on board\n>")
+print("Water pack quantity:" + water_packs )
